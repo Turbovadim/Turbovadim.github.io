@@ -1,4 +1,86 @@
-.site-header {
+BODY { 
+ font-family: Arial, Verdana, Helvetica, sans-serif; 
+ 
+ }
+
+.theader {
 	background: #4a423f;
-	padding: 20px ;
 }
+
+.myclass {
+	color: 
+
+}
+
+.theader {
+	color: #e8dbd3;
+	padding: 1px;
+}
+
+.zagolovok{
+	text-align: center;
+	background-color: #ccc
+}
+
+.zagolovok h1 {
+	margin-top: 0;
+	color: #f05f40
+}
+
+.zagolovok {
+	padding: 50px;
+}
+
+#sozdatel {
+	float: right;
+}
+
+#sozdatel ul {
+	
+}
+
+#sozdatel ul li {
+	list-style: none;
+	display: inline;
+}
+
+#sozdatel ul li a {
+	text-decoration: none;
+	color: #e8dbd3
+}
+
+#sozdatel ul li a:hover {
+	color: #f05f40;
+}
+
+.top a {
+	text-decoration: none
+}
+
+.top a {
+	color: blue;
+}
+
+#footer-site {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #4a423f;
+}
+
+#footer-site a {
+	color: #fff
+}
+
+#footer-site a {
+	text-decoration: none;
+}
+
+.wiget-social li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+
+
+
