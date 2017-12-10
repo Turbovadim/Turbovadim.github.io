@@ -54,7 +54,7 @@ BODY {
 }
 
 .top a {
-	text-decoration: none
+	text-decoration: none;
 }
 
 .top a {
@@ -81,6 +81,13 @@ BODY {
 	margin-right: 20px;
 }
 
+.top a:hover {
+	color: #4900cf;
+}
+
+.channel a:hover {
+    color: #000acf;
+}
 
 
 
