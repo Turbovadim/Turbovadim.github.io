@@ -1,2 +1,2 @@
 # turboresourspack
-turboresourspacks
+turboresourcepacks
