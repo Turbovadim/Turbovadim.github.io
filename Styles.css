@@ -34,21 +34,21 @@ BODY {
 	float: right;
 }
 
-#sozdatel ul {
-	
+#sozdatel li a {
+	padding-top: 10px
 }
 
-#sozdatel ul li {
+#sozdatel li {
 	list-style: none;
 	display: inline;
 }
 
-#sozdatel ul li a {
+#sozdatel li a {
 	text-decoration: none;
 	color: #e8dbd3
 }
 
-#sozdatel ul li a:hover {
+#sozdatel li a:hover {
 	color: #f05f40;
 }
 
@@ -91,6 +91,14 @@ BODY {
 .ogi li {
 	text-decoration: none;
 }
+.centir {
+	text-align: center;
+}
+
+.center {
+	color: Tomato
+}
+
 .center {
 	text-align: center;
 }
