@@ -1,6 +1,5 @@
 BODY { 
  font-family: Arial, Verdana, Helvetica, sans-serif; 
- 
  }
 
 .theader {
@@ -89,5 +88,9 @@ BODY {
     color: #000acf;
 }
 
-
-
+.ogi li {
+	text-decoration: none;
+}
+.center {
+	text-align: center;
+}
