@@ -105,6 +105,7 @@ body {
 
 #vk_comments {
 	padding-top: 40px
+<<<<<<< HEAD
 }
 
 #vk_groups {
@@ -130,3 +131,10 @@ body {
     color: #000;
 }
 
+=======
+}
+
+#vk_groups {
+	float: right;
+}
+>>>>>>> d8f67495ad9c3f1bbc0d9d324c59f30337369425
