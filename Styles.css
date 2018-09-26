@@ -91,14 +91,42 @@ BODY {
 .ogi li {
 	text-decoration: none;
 }
-.centir {
+
+
+.center {
+	color: Tomato;
 	text-align: center;
 }
 
-.center {
-	color: Tomato
+body {
+   	padding: 0;
+   	margin: 0;
 }
 
-.center {
-	text-align: center;
+#vk_comments {
+	padding-top: 40px
 }
+
+#vk_groups {
+	float: right;
+}
+
+.col-sidebar {
+	width: 30%;
+	background: #eee;
+	float: right;
+	margin-top: 50px;
+}
+
+
+.cut-list li {
+    list-style: none;
+}
+
+.cut-list li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+}
+
