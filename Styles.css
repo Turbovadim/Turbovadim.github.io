@@ -92,6 +92,7 @@ body {
 	text-decoration: none;
 }
 
+<<<<<<< HEAD
 .centir {
 	color: black;
 	text-align: center;
@@ -109,6 +110,22 @@ body {
 
 #vk_comments {
 	padding-top: 40px
+=======
+
+.center {
+	color: Tomato;
+	text-align: center;
+}
+
+body {
+   	padding: 0;
+   	margin: 0;
+}
+
+#vk_comments {
+	padding-top: 40px
+<<<<<<< HEAD
+>>>>>>> c081b4542c4fa13c4f0d82de96f37a97d488e8d4
 }
 
 #vk_groups {
@@ -119,6 +136,7 @@ body {
 	width: 30%;
 	background: #eee;
 	float: right;
+<<<<<<< HEAD
 }
 
 
@@ -132,3 +150,27 @@ body {
     font-weight: bold;
     color: #000;
 }
+=======
+	margin-top: 50px;
+}
+
+
+.cut-list li {
+    list-style: none;
+}
+
+.cut-list li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+}
+
+=======
+}
+
+#vk_groups {
+	float: right;
+}
+>>>>>>> d8f67495ad9c3f1bbc0d9d324c59f30337369425
+>>>>>>> c081b4542c4fa13c4f0d82de96f37a97d488e8d4
