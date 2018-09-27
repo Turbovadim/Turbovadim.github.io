@@ -1,4 +1,4 @@
-BODY { 
+body { 
  font-family: Arial, Verdana, Helvetica, sans-serif; 
  }
 
@@ -91,14 +91,44 @@ BODY {
 .ogi li {
 	text-decoration: none;
 }
+
 .centir {
+	color: black;
 	text-align: center;
 }
 
 .center {
-	color: Tomato
+	color: Tomato;
+	text-align: center;
 }
 
-.center {
-	text-align: center;
+body {
+   	padding: 0;
+   	margin: 0;
+}
+
+#vk_comments {
+	padding-top: 40px
+}
+
+#vk_groups {
+	float: right;
+}
+
+.col-sidebar {
+	width: 30%;
+	background: #eee;
+	float: right;
+}
+
+
+.cut-list li {
+    list-style: none;
+}
+
+.cut-list li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
 }
