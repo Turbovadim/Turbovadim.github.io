@@ -1,4 +1,4 @@
-BODY { 
+body { 
  font-family: Arial, Verdana, Helvetica, sans-serif; 
  }
 
@@ -91,14 +91,142 @@ BODY {
 .ogi li {
 	text-decoration: none;
 }
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 65c01d0a8dea947d03a52020a725be41017f6cf3
+>>>>>>> 0bca350ccebee7f626fef77c7daab8ac8b668779
 .centir {
+	color: black;
 	text-align: center;
 }
 
 .center {
-	color: Tomato
+	color: Tomato;
+	text-align: center;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 }
 
+body {
+   	padding: 0;
+   	margin: 0;
+}
+
+#vk_comments {
+	padding-top: 40px
+}
+
+#vk_groups {
+	float: right;
+}
+
+.col-sidebar {
+	width: 30%;
+	background: #eee;
+	float: right;
+}
+
+=======
+>>>>>>> 0bca350ccebee7f626fef77c7daab8ac8b668779
+}
+
+body {
+   	padding: 0;
+   	margin: 0;
+}
+
+#vk_comments {
+	padding-top: 40px
+<<<<<<< HEAD
+}
+
+#vk_groups {
+	float: right;
+}
+
+.col-sidebar {
+	width: 30%;
+	background: #eee;
+	float: right;
+}
+
+=======
+=======
+
 .center {
+	color: Tomato;
 	text-align: center;
 }
+
+body {
+   	padding: 0;
+   	margin: 0;
+}
+
+#vk_comments {
+	padding-top: 40px
+<<<<<<< HEAD
+>>>>>>> c081b4542c4fa13c4f0d82de96f37a97d488e8d4
+}
+
+#vk_groups {
+	float: right;
+}
+
+.col-sidebar {
+	width: 30%;
+	background: #eee;
+	float: right;
+<<<<<<< HEAD
+}
+
+>>>>>>> 0bca350ccebee7f626fef77c7daab8ac8b668779
+
+.cut-list li {
+    list-style: none;
+}
+
+.cut-list li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+<<<<<<< HEAD
+}
+=======
+}
+=======
+	margin-top: 50px;
+}
+
+>>>>>>> 65c01d0a8dea947d03a52020a725be41017f6cf3
+
+.cut-list li {
+    list-style: none;
+}
+
+.cut-list li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+<<<<<<< HEAD
+}
+=======
+}
+
+=======
+}
+
+#vk_groups {
+	float: right;
+}
+>>>>>>> d8f67495ad9c3f1bbc0d9d324c59f30337369425
+>>>>>>> c081b4542c4fa13c4f0d82de96f37a97d488e8d4
+>>>>>>> 65c01d0a8dea947d03a52020a725be41017f6cf3
+>>>>>>> 0bca350ccebee7f626fef77c7daab8ac8b668779
