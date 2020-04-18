@@ -1,2 +1,0 @@
-# turbovadim
-turbovadim
